@@ -1,7 +1,7 @@
 package LearnigDp;
 
 import java.util.Arrays;
-
+    // using top down approach memoization
 public class Dp1 {
     static int[] dp;
 
